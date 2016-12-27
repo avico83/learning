@@ -34,9 +34,7 @@ def print_first_and_last(sentence,local_list):
 #     words = sort_sentence(sentence)
 #     print_first_word(words)
 #     print_last_word(words)
-
-
-
+#lkfdjlkefslhk
 
 sentence = "All the good thing comes big"
 my_list = ["A", "B", "C", "D"]
