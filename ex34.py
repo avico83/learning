@@ -10,6 +10,6 @@ z = (a+' '+b+' '+c+' '+d+' '+e+' '+f)
 
 print z
 for item in z:
-   # print item
+   print item
 
 
