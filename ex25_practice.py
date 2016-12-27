@@ -36,6 +36,8 @@ def print_first_and_last(sentence,local_list):
 #     print_last_word(words)
 
 
+
+
 sentence = "All the good thing comes big"
 my_list = ["A", "B", "C", "D"]
 
