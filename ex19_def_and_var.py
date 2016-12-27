@@ -15,6 +15,6 @@ cheese_and_crackers(amount_of_cheese,amount_of_crackers)
 print "We can even do math inside too: "
 cheese_and_crackers(10 + 20 , 5 + 6)
 
-print "And we can combine thetoo, variable and math:"
+print "And we can combine the too, variable and math:"
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
 
