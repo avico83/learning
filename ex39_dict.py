@@ -40,7 +40,8 @@ cities = {
     'FL': 'Jacksonville',
     'MI': 'Detroit',
     'NY': 'New-York',
-    'OR': 'Portland'
+    'OR': 'Portland',
+    'TX': 'Texas'
 }
 cities['FL'] = 'Miami' #this adds new key and value to dict named cities
 
